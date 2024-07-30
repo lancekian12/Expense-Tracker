@@ -26,9 +26,9 @@ void main() {
         ),
         textTheme: TextTheme(
           titleLarge: TextStyle(
-            fontWeight: FontWeight.normal,
+            fontWeight: FontWeight.bold,
             color: kColorScheme.onSecondaryContainer,
-            fontSize: 14,
+            fontSize: 16,
           ),
         ),
       ),
